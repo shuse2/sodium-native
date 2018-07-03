@@ -6,7 +6,7 @@ Low level bindings for [libsodium](https://github.com/jedisct1/libsodium).
 npm install sodium-native
 ```
 
-[![build status](https://travis-ci.org/sodium-friends/sodium-native.svg?branch=master)](https://travis-ci.org/sodium-friends/sodium-native)
+[![build status](https://travis-ci.org/sodium-friends/sodium-native.svg?branch=master)](https://travis-ci.org/LiskHQ/sodium-native)
 [![build status](https://ci.appveyor.com/api/projects/status/8wi3my2clf1ami6k/branch/master?svg=true)](https://ci.appveyor.com/project/mafintosh/sodium-native/branch/master)
 
 
