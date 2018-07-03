@@ -4,9 +4,9 @@
   "description": "Low level bindings for libsodium",
   "main": "index.js",
   "dependencies": {
-    "ini": "^1.3.5",
-    "nan": "^2.4.0",
-    "node-gyp-build": "^3.0.0"
+    "ini": "1.3.5",
+    "nan": "2.4.0",
+    "node-gyp-build": "3.0.0"
   },
   "devDependencies": {
     "buffer-alloc": "^1.1.0",
